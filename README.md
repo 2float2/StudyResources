@@ -82,3 +82,6 @@
 《Show Your Work》
 
 《The Programmer’s Brain》
+
+### **23.9.17更新**
+[Tech Art学习各阶段英语资料汇总](https://guerilla-tactics.com/hats/graphics/)
