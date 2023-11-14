@@ -85,3 +85,8 @@
 
 ### **23.9.17更新**
 [Tech Art学习各阶段英语资料汇总](https://guerilla-tactics.com/hats/graphics/)
+
+### **23.11.14更新**
+[Coursera的 Art for Games系列](https://www.coursera.org/specializations/art-for-games)
+[100 Days of 3D Design](https://medium.com/the-100-day-project/100-days-of-3d-4b28a514f3ac)
+
